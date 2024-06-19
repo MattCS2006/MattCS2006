@@ -1,8 +1,7 @@
-<div align="center">
-    <h1>
-        <img src="https://readme-typing-svg.herokuapp.com?font=Quicksand&size=40&duration=3000&color=33FF33&center=true&vCenter=true&width=435&lines=Hey there!;This is Matthew;Enjoy my Github!;" alt="Typing SVG"/>
-    </h1>
-</div>
+
+<h1 align="center">
+    <img src="https://readme-typing-svg.herokuapp.com/?font=Righteous&size=35&center=true&vCenter=true&width=500&height=70&duration=4000&lines=Hi+There!+👋;+I'm+Matthew!;Enjoy+my+GitHub!;" />
+</h1>
 <!--
 **MattCS2006/MattCS2006** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
