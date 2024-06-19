@@ -1,8 +1,8 @@
 ## Hi there 👋
 <div align="center">
     <h1>
-        <img src="https://readme-typing-svg.herokuapp.com?font=Quicksand&size=40&duration=3000&color=D5CEC1&center=true&vCenter=true&width=435&lines=👋Hi there👋;Here's Matthew;Welcome to ->;-> my github!!!;" alt="Typing SVG"/></h1>
-    <p><img src="termina-gh.gif" alt="Terminal GH GIF" /></p>
+        <img src="https://readme-typing-svg.herokuapp.com?font=Quicksand&size=40&duration=3000&color=33FF33&center=true&vCenter=true&width=435&lines=Hey there!;This is Matthew;Enjoy my Github!;" alt="Typing SVG"/>
+    </h1>
 </div>
 <!--
 **MattCS2006/MattCS2006** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
