@@ -6,15 +6,16 @@
 <h3 align="center">Just someone who's always trying to improve, seeking knowledge and freedom through technology</h3>
 
 <br/>
-<div aling="center">
+
+<div align="center">
     
-✍️ I’m currently studying computer engineering at TEC Costa Rica.
+✍️ I’m currently studying computer engineering at **TEC Costa Rica**.
     
 🖥️ Currently learning **JavaScript** and **Rust**.
     
-🪙 Adventuring the world of blockchain and OSS.
+🪙 Adventuring the world of **blockchain** and **OSS**.
     
-🏋️‍♂️ Trying everyday to be a little bit better.
+🏋️‍♂️ Trying everyday to be a little bit **better**.
 
 </div>
     
