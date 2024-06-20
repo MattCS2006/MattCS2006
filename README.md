@@ -3,19 +3,19 @@
     <img src="https://readme-typing-svg.herokuapp.com/?font=Quicksand&color=D5CEC1&size=35&center=true&vCenter=true&width=500&height=70&duration=3500&lines=Hey+There!+👋;+I'm+Matthew!;Enjoy+my+GitHub!;" />
 </h1>
 
-<h3 align="center">Just someone who's always trying to improve, seeking knowledge and freedom through technology</h3>
+<h3 align="center">I am always improving, seeking knowledge and freedom through the understanding of technology</h3>
 
 <br/>
 
 <div align="center">
     
-✍️ I’m currently studying computer engineering at **TEC Costa Rica**.
+✍️ Working towards a degree on **Computer Engineering** at the **Technological Insitute of Costa Rica**.
     
-🖥️ Currently learning **JavaScript** and **Rust**.
+🖥️ Mastering **JavaScript** and **Rust**.
     
-🪙 Adventuring the world of **blockchain** and **OSS**.
+🪙 Gaining experience on **BlockChain** and **OSS**.
     
-🏋️‍♂️ Trying everyday to be a little bit **better**.
+🏋️‍♂️ Becoming the best version of myself through experiences.
 
 </div>
 <div align="center"> 
