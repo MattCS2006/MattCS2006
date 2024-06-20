@@ -18,18 +18,29 @@
 🏋️‍♂️ Trying everyday to be a little bit **better**.
 
 </div>
-    
-<!--
-**MattCS2006/MattCS2006** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+<div align="center"> 
+  <a href="mailto:masa=nroje06@gmail.com">
+    <img src="https://img.shields.io/badge/Gmail-333333?style=for-the-badge&logo=gmail&logoColor=red" />
+  </a>
+    <a href="https://twitter.com/" target="_blank">
+    <img src="https://img.shields.io/twitter/url?url=https%3A%2F%2Fx.com%2FMat257259737&style=for-the-badge&logo=X&labelColor=blue&color=blue" target="_blank" />
+  </a>
 
-Here are some ideas to get you started:
+  <h2 align="center">⚒️ Languages & Tools ⚒️</h2>
+<br/>
+<div align="center">
+    <img src="https://skillicons.dev/icons?i=html,vscode,github,python" />
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+  <h2 align="center">✒️ Learning ✒️</h2>
+<br/>
+<div align="center">
+    <img src="https://skillicons.dev/icons?i=javascript,rust" />
+
+<br/>
+<hr/>
+
+<h2 align="center">⚡ Stats ⚡</h2>
+<br>
+<div align="center">
+<img  src="https://raw.githubusercontent.com/MattCS2006/MattCS2006/output/github-contribution-grid-snake.svg" alt="contribution graph" />
+</div>
