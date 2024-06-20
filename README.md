@@ -23,7 +23,7 @@
     <img src="https://img.shields.io/badge/Gmail-333333?style=for-the-badge&logo=gmail&logoColor=red" />
   </a>
     <a href="https://X.com/" target="_blank">
-    <img src="https://img.shields.io/twitter/follow/MattCS06?style=for-the-badge&logo=X&labelColor=blue&color=blue" target="_blank" />
+    <img src="https://img.shields.io/twitter/url?url=https%3A%2F%2Fx.com%2FMattCS06&style=for-the-badge&logo=X&labelColor=blue&color=blue" target="_blank" />
   </a>
 
   <h2 align="center">⚒️ Languages & Tools ⚒️</h2>
