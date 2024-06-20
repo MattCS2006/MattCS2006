@@ -22,7 +22,7 @@
   <a href="mailto:masa=nroje06@gmail.com">
     <img src="https://img.shields.io/badge/Gmail-333333?style=for-the-badge&logo=gmail&logoColor=red" />
   </a>
-    <a href="https://twitter.com/" target="_blank">
+    <a href="https://X.com/" target="_blank">
     <img src="https://img.shields.io/twitter/url?url=https%3A%2F%2Fx.com%2FMattCS06&style=for-the-badge&logo=X&labelColor=blue&color=blue" target="_blank" />
   </a>
 
