@@ -50,7 +50,7 @@
   <img width=390 src="https://github-readme-streak-stats-salesp07.vercel.app/?user=MattCS2006&count_private=true&theme=react&border_radius=10" alt="streak stats"/>
   <img width=390 src="https://github-readme-stats-salesp07.vercel.app/api?username=MattCS2006&count_private=true&show_icons=true&theme=react&rank_icon=github&border_radius=10" alt="readme stats" />
   <br/>
-  <img width=325 align="center" src="![MattCS2006's Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=MattCS2006&theme=react&show_icons=true&hide_border=false&layout=compact)" alt="top langs" />
+  <img width=325 align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=MattCS2006&theme=react&show_icons=true&hide_border=false&layout=compact" alt="top langs" />
 </div>
 
 <br/><br/>
