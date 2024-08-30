@@ -29,12 +29,12 @@
   <h2 align="center">⚒️ Languages & Tools ⚒️</h2>
 <br/>
 <div align="center">
-    <img src="https://skillicons.dev/icons?i=html,vscode,github,python" />
+    <img src="https://skillicons.dev/icons?i=html,vscode,github,python,css" />
 
   <h2 align="center">✒️ Learning ✒️</h2>
 <br/>
 <div align="center">
-    <img src="https://skillicons.dev/icons?i=javascript,rust" />
+    <img src="https://skillicons.dev/icons?i=javascript,rust,java,cpp" />
 
 <br/>
 <hr/>
@@ -43,14 +43,6 @@
 <br>
 <div align="center">
 <img  src="https://raw.githubusercontent.com/MattCS2006/MattCS2006/output/github-contribution-grid-snake.svg" alt="contribution graph" />
-</div>
-
-<br>
-<div align=center>
-  <img width=390 src="https://github-readme-streak-stats.herokuapp.com/?user=MattCS2006&theme=react&hide_border=false" alt="streak stats"/>
-  <img width=390 src="https://github-readme-stats.vercel.app/api?username=MattCS2006&theme=react&show_icons=true&hide_border=false&count_private=true" alt="readme stats" />
-  <br/>
-  <img width=325 align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=MattCS2006&theme=react&show_icons=true&hide_border=false&layout=compact" alt="top langs" />
 </div>
 
 <br/><br/>
